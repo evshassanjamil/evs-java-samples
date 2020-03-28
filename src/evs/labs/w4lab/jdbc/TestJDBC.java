@@ -5,7 +5,6 @@ public class TestJDBC {
         try {
             String dbPath = "E:\\Development\\Workspaces\\IntellijWorkspace\\SampleJavaProject\\db\\main.db";
             DBHandler db = new DBHandler(dbPath);
-
             ////////////// DROP TABLE ///////////////
             /*String drop = "DROP TABLE product";
             db.dropTable(drop);*/
