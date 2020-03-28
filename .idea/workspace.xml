@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b8be16-0374-4f11-b653-4f25cf8446a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U8vk42cFWwAmweFNMqBDBSTyCa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db/sqlite-jdbc-3.7.2.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="evs.labs.w4lab.jdbc" />
+      <recent name="evs.labs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Development\Workspaces\IntellijWorkspace\SampleJavaProject\src\evs\labs\w4lab\jdbc" />
+      <recent name="E:\Development\Workspaces\IntellijWorkspace\SampleJavaProject\src\evs\labs\w3lab\abstraction\ainterface" />
+      <recent name="E:\Development\Workspaces\IntellijWorkspace\SampleJavaProject\src\evs\labs\w3lab\abstraction\interface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestW301Assignment">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w3assgnmt.Test" />
+      <module name="EVSSampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w3assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w4lab.fileio.TestFileIO" />
+      <module name="EVSSampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w401Assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w1lab.TestHello" />
+      <module name="EVSSampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w401Assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w4lab.jdbc.TestJDBC" />
+      <module name="EVSSampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w401Assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestW301Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w301Assgnmt.TestW301Assignment" />
+      <module name="EVSSampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w301Assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evs.labs.w401Assgnmt.Test" />
+      <module name="SampleJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evs.labs.w401Assgnmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestFileIO" />
+      <item itemvalue="Application.TestHello" />
+      <item itemvalue="Application.TestJDBC" />
+      <item itemvalue="Application.TestW301Assignment" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestW301Assignment" />
+        <item itemvalue="Application.TestHello" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestFileIO" />
+        <item itemvalue="Application.TestJDBC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b8be16-0374-4f11-b653-4f25cf8446a9" name="Default Changelist" comment="" />
+      <created>1574751176366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574751176366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580026416602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580026416602" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1576565258570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576565258570" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580026372853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580026372853" />
+    <state x="245" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576565974806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576565974806" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576471296286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576471296286" />
+    <state x="403" y="266" width="560" height="247" key="DBNavigator.IdleConnectionDialog" timestamp="1581845564739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="266" width="560" height="247" key="DBNavigator.IdleConnectionDialog/0.0.1366.728@0.0.1366.728" timestamp="1581845564739" />
+    <state x="213" y="21" key="DBNavigator.ProjectSettingsDialog" timestamp="1581843576656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581843576656" />
+    <state x="440" y="99" key="FileChooserDialogImpl" timestamp="1581842779608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="440" y="99" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581842779608" />
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1581495256788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581495256788" />
+    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1581495256788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581495256788" />
+    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1581495256787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581495256787" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1581495256788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581495256788" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584276922561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584276922561" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576565619218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1576565619218" />
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585048027839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585048027839" />
+    <state x="131" y="0" key="new project wizard" timestamp="1585051535474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585051535474" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576565713541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576565713541" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SampleJavaProject$TestJDBC.ic" NAME="TestJDBC Coverage Results" MODIFIED="1576146230887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>evs.labs.w4lab.jdbc.*</FILTER>
+    </SUITE>
+  </component>
+</project>

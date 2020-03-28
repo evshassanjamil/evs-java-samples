@@ -1,0 +1,76 @@
+DROP TABLE Company
+DROP TABLE Product
+DROP TABLE Store
+
+
+CREATE TABLE IF NOT EXISTS Company (
+    cid INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    brand_name VARCHAR(30),
+    since VARCHAR(4),
+    location TEXT NOT NULL
+)
+
+CREATE TABLE IF NOT EXISTS Product (
+    pid INTEGER PRIMARY KEY,
+    cid INTEGER,
+    name TEXT NOT NULL,
+    category VARCHAR(30),
+    price BIGINT,
+    added_date DATETIME,
+    added_by VARCHAR(30) NOT NULL,
+    expiry_date DATETIME,
+    FOREIGN KEY (cid) REFERENCES Company(cid)
+)
+
+CREATE TABLE IF NOT EXISTS Store (
+    tag TEXT,
+    pid INTEGER,
+    FOREIGN KEY (pid) REFERENCES Product(pid)
+)
+
+
+
+
+INSERT INTO Company
+VALUES (1, "Pepsico", "Pepsi", "1990", "RWP")
+INSERT INTO Company
+VALUES (2, "Coke", "Coca Cola", "1980", "ISB")
+
+INSERT INTO Product
+VALUES (1, 1, "Pepsi", "Beverage", 50, "2019-12-01", "NameA", "2020-12-02")
+INSERT INTO Product
+VALUES (2, 2, "Coke", "Beverage", 50, "2019-11-11", "NameA", "2020-11-12")
+
+INSERT INTO Store VALUES("PCC", 1)
+INSERT INTO Store VALUES("PCC", 2)
+
+UPDATE Store SET tag = "MCC"
+
+DELETE FROM Product WHERE pid = 2
+
+
+SELECT * FROM Product
+SELECT * FROM Company
+SELECT * FROM Store
+
+SELECT p.pid, p.name
+FROM Product p
+INNER JOIN Company c ON p.cid = c.cid
+WHERE c.name = "Pepsico"
+
+SELECT p.pid, p.name
+FROM product p
+WHERE p.price < 49
+
+SELECT p.pid, p.name
+FROM product p
+WHERE p.added_date = "2019-11-11"
+
+SELECT p.pid, p.name
+FROM product p
+WHERE p.added_date > "2019-11-10" && p.added_date < "2019-12-01"
+
+SELECT p.pid, p.name
+FROM product p
+WHERE p.expiry_date <= "2020-12-12"
